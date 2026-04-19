@@ -1,1 +1,2 @@
-This directory is related to my profile details
+Hello world
+I am doing practise for git desktop
